@@ -1,0 +1,9 @@
+id,type,name,status,description,epic, startTime, duration, getEndTime
+0,TASK,Task1,NEW,Desc Task1,24.02.2000|12 : 00,1,25.02.2000|12 : 00,
+3,SUBTASK,Subtask1,NEW,Desc Subtask1,2,12.01.1997|10 : 10,1,13.01.1997|10 : 10,
+4,SUBTASK,Subtask2,NEW,Desc Subtask2,2,13.01.1991|11 : 00,1,14.01.1991|11 : 00,
+5,SUBTASK,Subtask3,NEW,Desc Subtask3,2,18.04.1996|11 : 00,1,19.04.1996|11 : 00,
+2,EPIC,Epic1,NEW,Desc Epic1,13.01.1991|11 : 00,3,13.01.1997|10 : 10,
+6,EPIC,Epic2,NEW,Desc Epic2,22.04.2022|16 : 27,0,13.01.1997|10 : 00
+
+0,2

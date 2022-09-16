@@ -1,0 +1,4 @@
+id,type,name,status,description,epic
+ Task{name='Перекус', id='0', description=Съесть яблоко', status=NEW, type=task}
+id,type,name,status,description,epic
+ Task{name='Ходьба', id='1', description=Пройти 1 км', status=NEW, type=task}
